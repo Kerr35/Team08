@@ -1,4 +1,8 @@
+# CODE FROM EXTERNAL SOURCE
 # http://wiki.seeedstudio.com/Grove-Line_Finder/
+# 11 October 2018
+# This code detects the black line on the grove pi.
+
 import time
 import grovepi
 
@@ -20,3 +24,4 @@ while True:
 
     except IOError:
         print ("Error")
+# END CODE FROM ETERNAL SOURCE
