@@ -1,4 +1,4 @@
-http://wiki.seeedstudio.com/Grove-Line_Finder/
+# http://wiki.seeedstudio.com/Grove-Line_Finder/
 import time
 import grovepi
 
